@@ -4,7 +4,7 @@ import HeroSection from "./components/HeroSection"
 import Navbar from "./components/Navbar"
 import Pricing from "./components/Pricing"
 import Testimonials from "./components/Testimonials"
-import WorkFlow from "./components/Workflow"
+import WorkFlow from "./components/WorkFlow"
 
 const App = () => {
   return (
